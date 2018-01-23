@@ -7,24 +7,41 @@ Kamal and Enrique
 
 What do you prefer to be called?
 Enrique 
+Kamal
 
 What are your GitHub usernames?
 ruedaenr
 
+Xanos20
+
 Why are you taking this course?
 To expand my knowledge about operating systems. 
+
+I would like to learn how to develop and improve on Unix-based operating systems and make them more secure.
 
 Do you have any concerns about this course?
 Nope
 
+As of now I don't have any as long as I can meet you in office hours. 
+
 Look over the course schedule page. Which scheduled topics look most interesting to you?
 Parallel Programming Puzzles
+
+I/O Devices
+Hard Drives
+Distributed Systems
+CPU Scheduling
 
 Do you have any questions about the course?
 Nope
 
+As of now I do not.
+
 Do you have any other questions for me?
 Nope
+
+Will we learn about operating system security once all the fundamental topics are covered?
+
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
@@ -46,3 +63,5 @@ The link to the book from the webstie.
 
 When are you free during my scheduled office hours?
 Monday,Wendsday, Friday during all office hours. 
+
+Most of Tuesday and Thursday and Friday morning
